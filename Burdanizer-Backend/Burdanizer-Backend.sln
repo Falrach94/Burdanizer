@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendAPI", "BackendAPI\BackendAPI.csproj", "{49DBF682-521B-4EB4-BD5E-FAC664366D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLayer", "DomainLayer\DomainLayer.csproj", "{72C4DB37-D296-48B1-B19F-B14FE2FDA704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DBF682-521B-4EB4-BD5E-FAC664366D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DBF682-521B-4EB4-BD5E-FAC664366D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DBF682-521B-4EB4-BD5E-FAC664366D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DBF682-521B-4EB4-BD5E-FAC664366D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C4DB37-D296-48B1-B19F-B14FE2FDA704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C4DB37-D296-48B1-B19F-B14FE2FDA704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C4DB37-D296-48B1-B19F-B14FE2FDA704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C4DB37-D296-48B1-B19F-B14FE2FDA704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A184BB09-7E54-4440-8D12-BAE38918DD5D}
+	EndGlobalSection
+EndGlobal
